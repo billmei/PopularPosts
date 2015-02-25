@@ -1,6 +1,7 @@
 # Popular Posts
 Scrape the most popular posts from any WordPress blog
 
+Demo: [http://popularposts.herokuapp.com/](http://popularposts.herokuapp.com/)
 
 ## Installation Instructions
 
@@ -10,8 +11,8 @@ Flask Version 0.10.1
 
 ## Step 1
 
-	$ git clone git@github.com:Kortaggio/Kortaggio.git
-	$ cd Kortaggio
+	$ git clone git@github.com:Kortaggio/PopularPosts.git
+	$ cd PopularPosts
 
 ### Step 2
 
