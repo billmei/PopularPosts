@@ -24,8 +24,7 @@ Install `virtualenv` and app requirements (use the `--no-site-packages` flag for
 
 Generate a secret key and stick it into `/secret.txt`
 
-
-### Step 6
+### Step 3
 
 Run with
 

@@ -1,0 +1,17 @@
+{
+  "name": "PopularPosts",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Kortaggio/PopularPosts",
+  "authors": [
+    "Bill Mei"
+  ],
+  "license": "All Rights Reserved",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/static/bower_components",
+    "test",
+    "tests"
+  ]
+}

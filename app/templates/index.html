@@ -3,8 +3,18 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Hello world</title>
+
+
+	{% assets "scss_all" %}
+	<link rel="stylesheet" type="text/css" href="{{ ASSET_URL }}">
+	{% endassets %}
 </head>
 <body>
 	<p>Hello world!</p>
+
+	
+	{% assets "js_all" %}
+		<script type="text/javascript" src="{{ ASSET_URL }}"></script>
+	{% endassets %}
 </body>
 </html>
